@@ -1,4 +1,4 @@
-// IIFE -- Immediately Invoked Function Expression
+// IIFE -- Immediately Invoked Function Expression.
 (function(){
 
     function Start()
